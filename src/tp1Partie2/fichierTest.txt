@@ -1,0 +1,22 @@
+Clients :
+Roger
+Céline
+Steeve
+Simon
+Robert
+Frank
+Plats :
+Poutine 10.5
+Frites 2.5
+Repas_Poulet 15.75
+Club_Sandwich 12.54
+HotDog_Steam 2.92
+Commandes :
+Roger Poutine 1
+Céline Frites 2
+Céline Repas_Poulet 1
+Robert HotDog_Steam 21
+Robert Poutine 8
+Robert Frites 13
+Simon Club_Sandwich 1
+Fin

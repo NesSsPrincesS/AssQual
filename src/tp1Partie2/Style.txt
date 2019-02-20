@@ -1,0 +1,11 @@
+1 - l'entête de fichier suivras le format suivant:
+//----------------------------------------------------
+//Programmeur: [Prénom Nom], [Prénom Nom] [etc]
+//Date: [jj-mm-aaaa]
+//Fichier [nom du fichier].java
+//
+//Description de la classe: [description de la classe
+//
+//----------------------------------------------------
+
+2 - Pour le formattage de code nous allons utiliser le style de formattage établit par sotira dans les cours de java de la dernière session. (Voir fichier CodeStyleMomorency.xml)

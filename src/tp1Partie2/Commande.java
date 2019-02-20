@@ -48,7 +48,7 @@ public class Commande {
 
 	public String printCommande() {
 		return nomClient + " :  " + plat.getPrix() * qte + " $";
-		// PLEASE USE THIS
+		
 	}
 
 	/**
@@ -63,7 +63,7 @@ public class Commande {
 	 */
 
 	public static Plats trouverPlat( ArrayList<Plats> plats, String nomPlat ) {
-		// PLEASE USE THIS
+	
 		Plats platTemp = null;
 		for ( Plats platCourrant : plats ) {
 			if ( platCourrant.getNom().equalsIgnoreCase( nomPlat )) {
